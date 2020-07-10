@@ -1,0 +1,22 @@
+{
+  "name": "@ordent/vue-web-vitals",
+  "version": "1.0.0",
+  "description": "web-vitals simple implementation on vue main",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@ordent/vue-web-vitals"
+  },
+  "keywords": [
+    "web-vitals",
+    "vue",
+    "webvitals",
+    "webvital",
+    "web-vital"
+  ],
+  "author": "Dimas Satrio (dimassrio@gmail.com)",
+  "license": "MIT"
+}
